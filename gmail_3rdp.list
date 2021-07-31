@@ -1,0 +1,3 @@
+# >gmail smtp&imap
+DOMAIN,imap.gmail.com,Proxy
+DOMAIN,smtp.gmail.com,Proxy
