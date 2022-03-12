@@ -1,13 +1,13 @@
 #>bilibilicomics
-DOMAIN-SUFFIX,bilibilicomics.com,🇸🇬 新加坡
+DOMAIN-SUFFIX,bilibilicomics.com,🇹🇭 泰国
 
 # > bilibili Intl
-DOMAIN-SUFFIX,biliintl.com,🇸🇬 新加坡
-DOMAIN,api.global.bilibili.com,🇸🇬 新加坡
-DOMAIN,apm-misaka.biliapi.net,🇸🇬 新加坡
-DOMAIN,api.bilibili.tv,🇸🇬 新加坡
-DOMAIN,p-bstarstatic.akamaized.net,🇸🇬 新加坡
-DOMAIN,upos-bstar-mirrorakam.akamaized.net,🇸🇬 新加坡
-DOMAIN,upos-bstar1-mirrorakam.akamaized.net,🇸🇬 新加坡
-DOMAIN,upos-sz-mirrorcosbstar1.bilivideo.com,🇸🇬 新加坡
-DOMAIN-SUFFIX,bstarstatic.com,🇸🇬 新加坡
+DOMAIN-SUFFIX,biliintl.com,🇹🇭 泰国
+DOMAIN,api.global.bilibili.com,🇹🇭 泰国
+DOMAIN,apm-misaka.biliapi.net,🇹🇭 泰国
+DOMAIN,api.bilibili.tv,🇹🇭 泰国
+DOMAIN,p-bstarstatic.akamaized.net,🇹🇭 泰国
+DOMAIN,upos-bstar-mirrorakam.akamaized.net,🇹🇭 泰国
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net,🇹🇭 泰国
+DOMAIN,upos-sz-mirrorcosbstar1.bilivideo.com,🇹🇭 泰国
+DOMAIN-SUFFIX,bstarstatic.com,🇹🇭 泰国
