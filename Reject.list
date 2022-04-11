@@ -1,1 +1,2 @@
 DOMAIN-SUFFIX,govfz.com,REJECT
+ip-cidr,203.107.1.1/24,REJECT
