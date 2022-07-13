@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,bilibilicomics.com,🇹🇭 泰国
 # > bilibili Intl
 DOMAIN-SUFFIX,biliintl.com,🇹🇭 泰国
 DOMAIN-SUFFIX,bilibili.tv,🇹🇭 泰国
-DOMAIN-KEYWORD,bstarstatic,🇹🇭 泰国
+DOMAIN-KEYWORD,bstar,🇹🇭 泰国
 DOMAIN,api.global.bilibili.com,🇹🇭 泰国
 DOMAIN,app.global.bilibili.com,🇹🇭 泰国
 DOMAIN,apm-misaka.biliapi.net,🇹🇭 泰国
@@ -17,4 +17,4 @@ DOMAIN,upos-sz-mirrorcosbstar1.bilivideo.com,🇹🇭 泰国
 DOMAIN-SUFFIX,bstarstatic.com,🇹🇭 泰国
 DOMAIN,p.bstarstatic.com,🇹🇭 泰国
 DOMAIN-SUFFIX,balaboom.com,🇹🇭 泰国
-
+DOMAIN,s-bstarstatic.akamaized.net,🇹🇭 泰国
