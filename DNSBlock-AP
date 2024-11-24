@@ -1,0 +1,8 @@
+HOST,oscp.apple.com,REJECT
+HOST,oscp2.appe.com,REJECT
+HOST,valid.apple.com,REJECT
+HOST,crl.apple.com,REJECT
+HOST,crl.entrust.net,REJECT
+HOST,certs.apple.com,REJECT
+HOST,appattest.apple.com,REJECT
+HOST,vpp.itunes.apple.com,REJECT
