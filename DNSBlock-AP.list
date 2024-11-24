@@ -13,3 +13,4 @@ HOST,ocsp2.apple.com,REJECT
 HOST,valid.apple.com,REJECT
 HOST,ppq.apple.com,REJECT
 HOST,ppq-ext.v.aaplimg.com,REJECT
+HOST,appattest.apple.com,REJECT
