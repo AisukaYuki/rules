@@ -1,8 +1,8 @@
 # openai
 DOMAIN-SUFFIX,openai.com,🇺🇲 美国节点
 DOMAIN-SUFFIX,chat.openai.com,🇺🇲 美国节点
-DOMAIN, cdn.auth0.com,🇺🇲 美国节点
-DOMAIN, openaiapi-site.azureedge.net,🇺🇲 美国节点
+DOMAIN,cdn.auth0.com,🇺🇲 美国节点
+DOMAIN,openaiapi-site.azureedge.net,🇺🇲 美国节点
 DOMAIN-SUFFIX,sentry.io,🇺🇲 美国节点
 DOMAIN-SUFFIX,intercom.io,🇺🇲 美国节点
 DOMAIN-SUFFIX,featuregates.org,🇺🇲 美国节点
@@ -18,3 +18,4 @@ DOMAIN-SUFFIX,oaiusercontent.com,🇺🇲 美国节点
 DOMAIN-SUFFIX,chatgpt.com,🇺🇲 美国节点
 PROCESS-NAME,ChatGPT.app,🇺🇲 美国节点
 PROCESS-NAME,ChatGPT,🇺🇲 美国节点
+DOMAIN-KEYWORD,gemini,🇺🇲 美国节点
